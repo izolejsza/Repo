@@ -1,4 +1,12 @@
-
+body {
+    font-size: 18px;
+    margin:40px 40px 40px 40px;
+    font-family: Noto Sans, sans-serif;
+    background-size:     cover;                   
+    background-repeat:   no-repeat;
+    background-position: center center;
+    color: #3e3e3e;
+}
 .przyklad{
     margin-left: 5%;
     margin-right: 5%;
