@@ -1,1 +1,15 @@
 
+.przyklad{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #f9ecf4;
+    }
+    
+.kod{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #ffffff;
+    border: 1px solid ;
+    text-align: center;
+}
+h2{text-align: center;}
