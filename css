@@ -6,7 +6,7 @@ body {
     background-repeat:   no-repeat;
     background-position: center center;
     color: #3e3e3e;
-}
+    }
 .przyklad{
     margin-left: 5%;
     margin-right: 5%;
@@ -19,5 +19,13 @@ body {
     background-color: #ffffff;
     border: 1px solid ;
     text-align: center;
-}
-h2{text-align: center;}
+    }
+h2{
+    text-align: center;
+    }
+
+h1{
+    text-align: center;
+    color:#FF1493;
+    font-weight: bold;
+    }
